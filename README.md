@@ -1,2 +1,2 @@
 # Object-Detection
-Object Detection with ml5.js
+Experimenting with ml5.js
